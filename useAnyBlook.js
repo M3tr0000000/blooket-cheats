@@ -7,7 +7,7 @@
 * You may not under any circumstance republish any code from this file as your own.
 * 
 * ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
-* https://github.com/Sh1N02/Blooket-Cheats/blob/main/LICENSE
+* https://github.com/M3tr0000000/Blooket-Cheats/blob/main/LICENSE
 */
 
 /* THE UPDATE CHECKER IS ADDED DURING COMMIT PREP, THERE MAY BE REDUNDANT CODE, DO NOT TOUCH */
@@ -21,7 +21,7 @@
         else stateNode.setState({ unlocks: blooks });
     });
     let img = new Image;
-    img.src = "https://raw.githubusercontent.com/Sh1N02/Blooket-Cheats/main/autoupdate/timestamps/global/useAnyBlook.png?" + Date.now();
+    img.src = "https://raw.githubusercontent.com/M3tr0000000/Blooket-Cheats/main/autoupdate/timestamps/global/useAnyBlook.png?" + Date.now();
     img.crossOrigin = "Anonymous";
     img.onload = function() {
         const c = document.createElement("canvas");
